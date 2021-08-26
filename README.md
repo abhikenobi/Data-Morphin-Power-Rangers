@@ -9,4 +9,13 @@ It is one of the foundations of a region’s public health and development and t
 
 Our goal with this project was to implement our education on machine learning to attempt to tackle a very crucial real-world issue. We used a public dataset found on Kaggle, along with models from SciKit Learn in order to train and test our dataset to see whether they could accurately classify a water sample as potable or non-potable. With our research, it was found that in order to determine water potability, multiple factors/attributes of the water sample would have to be looked at. Our dataset contained 9 attributes (i.e. features for our model).
 
+# Dataset
+
+The data set we used which included water quality data for 3276 different water bodies:
+
+# Sources
+
+
+
+# Findings
 

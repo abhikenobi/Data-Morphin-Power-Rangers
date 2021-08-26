@@ -15,7 +15,14 @@ The data set we used which included water quality data for 3276 different water 
 
 # Sources
 
+Kaggle
+https://www.kaggle.com/adityakadiwal/water-potability/
 
+SciKit Learn
+https://scikit-learn.org/stable/index.html 
+
+United Nations
+http://www.un.org/es/comun/docs/?symbol=A/RES/64/292&lang=E
 
 # Findings
 

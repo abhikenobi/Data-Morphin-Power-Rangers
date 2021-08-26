@@ -3,7 +3,7 @@
 # Introduction
 According to the United Nations:
 
-      On 28 July 2010, through Resolution 64/292, the United Nations General Assembly explicitly recognized the human right to water and sanitation and acknowledged that clean drinking water and sanitation are essential to the realisation of all human rights.
+On 28 July 2010, through Resolution 64/292, the United Nations General Assembly explicitly recognized the human right to water and sanitation and acknowledged that clean drinking water and sanitation are essential to the realisation of all human rights.
 
 It is one of the foundations of a region’s public health and development and therefore, a topic very important at all levels of scrutiny national and local. However, not all sources of water are safe for human consumption (potable). 
 
